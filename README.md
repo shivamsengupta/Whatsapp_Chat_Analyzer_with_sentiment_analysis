@@ -43,5 +43,5 @@ To get started with this project, follow these steps:
 5. Explore the web application in the `web-app/` directory to analyze WhatsApp chats interactively.
 
 ### Link to the Webapp
-[https://wp-chat-anlyzer.streamlit.app/](https://wp-chat-anlyzer.streamlit.app/)https://wp-chat-anlyzer.streamlit.app/
+https://wp-chat-anlyzer.streamlit.app/
 
